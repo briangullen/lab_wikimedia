@@ -1,0 +1,39 @@
+{
+  "$schema": "/mediawiki/recentchange/1.0.0",
+  "meta": {
+    "uri": "https://www.wikidata.org/wiki/Q116347520",
+    "request_id": "b32acb16-2456-4675-b4ad-56b97f2cbe36",
+    "id": "46806139-e36d-4a77-806d-b56419693364",
+    "dt": "2024-04-05T20:43:53Z",
+    "domain": "www.wikidata.org",
+    "stream": "mediawiki.recentchange",
+    "topic": "eqiad.mediawiki.recentchange",
+    "partition": 0,
+    "offset": 5001195766
+  },
+  "id": 2184423684,
+  "type": "edit",
+  "namespace": 0,
+  "title": "Q116347520",
+  "title_url": "https://www.wikidata.org/wiki/Q116347520",
+  "comment": "/* wbeditentity-update-languages-short:0||frr */ .",
+  "timestamp": 1712349833,
+  "user": "Dcirovicbot",
+  "bot": true,
+  "notify_url": "https://www.wikidata.org/w/index.php?diff=2120519043&oldid=2118438729&rcid=2184423684",
+  "minor": false,
+  "patrolled": true,
+  "length": {
+    "old": 15039,
+    "new": 15130
+  },
+  "revision": {
+    "old": 2118438729,
+    "new": 2120519043
+  },
+  "server_url": "https://www.wikidata.org",
+  "server_name": "www.wikidata.org",
+  "server_script_path": "/w",
+  "wiki": "wikidatawiki",
+  "parsedcomment": "‎<span dir=\"auto\"><span class=\"autocomment\">Changed label, description and/or aliases in frr: </span></span> ."
+}
